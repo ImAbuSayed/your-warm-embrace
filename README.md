@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-warm-embrace/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Your Warm Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-warm-embrace/) |
+| **Get License** | [Official Music Licensing for Your Warm Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-warm-embrace/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fffd7d131d214eda44c43629c863c7a0df427dae2840d9df00914bbff8f4f1e4` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
